@@ -1,0 +1,70 @@
+[
+    {
+      "name": "Apple iphone 11",
+      "price": 50999,
+      "image": "img/apple.jpeg",
+      "details": "The Apple iPhone 11 is a sleek and stylish smartphone that offers cutting-edge features and performance. It has a 6.1-inch Liquid Retina HD display with true-to-life colors and ..."
+    },
+    {
+      "name": "Google Smart phone ",
+      "price": 30000,
+      "image": "img/google.jpeg",
+      "details": " Full-screen 6.7-inch (170 mm)1 display 20:9 aspect ratio. Super Actua display.(1344 x 2992) LTPO OLED at 489 PPI.Smooth Display (1–120 Hz2)"
+    },
+    {
+      "name": "Huawei Nova 11 Smartphone | 8GB + 256GB Blue",
+      "price": 20000,
+      "image": "img/huawi.jpeg",
+      "details": "USmartphone · Single SIM · Android · Facial Recognition · Fingerprint Scanner · Blue · Ultra Wide Angle · "
+    },
+    {
+      "name": "M14 5G DSamsung Galaxy M14 5G (Smoky Teal,4GB,128GB)|",
+      "price": 40599,
+      "image": "img/m14.jpeg",
+      "details": "50MP Triple Cam|Segment's Only 6000 mAh 5G SP|5nm Processor|2 Gen. OS Upgrade & 4 Year Security Update|12GB RAM with RAM Plus|Android 13|"
+    },
+    {
+      "name": "Motorola e13 (Little Boy Blue, 128 GB)  (8 GB RAM)#",
+      "price": 22000,
+      "image": "img/oem.jpeg",
+      "details": "Excepteur Improve Your Performance With The 8 Gb Ram And T606 Unisoc Processor Available In This Motorola E13 Smartphone. Expand Your Storage Up To 1 Tb From 128 Gb "
+    },
+    {
+      "name": "ONE POnePlus 12R (Iron Gray, 16GB RAM, 256GB Storage) LUS",
+      "price": 45999,
+      "image": "img/one+.jpeg",
+      "details": "Lorem iBrand OnePlus Model Name OnePlus 12R Network Service Provider Unlocked for All Carriers Operating System OxygenOS Cellular Technology:5G"
+    },
+    {
+      "name": "OPPO f12Oppo F25 Pro 5G (Lava Red, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "price": 24000,
+      "image": "img/oppo.jpeg",
+      "details": "Sed dBrand: OppoColor: Lava RedFeatures: DESIGN: 2.5D straight front screen + 2D back cover, creating smooth lines and an elegant outlook. The entire phone has a thin and o eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "name": "Realme 5realme 12 Pro 5G (Submarine Blue, 8GB RAM 256 GB Storage) G",
+      "price": 26000,
+      "image": "img/realme.jpeg",
+      "details": "Ut eniBrand :realme .Model Name:12 PRO 5G.Network Service Provider:Unlocked for All Carriers .Operating System :Android 14.Cellular Technology :5Gm "
+    
+    },
+    {
+      "name": "Redmi 12 5G Jade Black 8GB RAM 256GB ROM  ",
+      "price": 19999,
+      "image": "img/redmi.jpeg",
+      "details": "Brand :Redmi Model Name.Redmi Note 13 Pro 5G Network Service Provider.Unlocked for All Carriers .Operating System :Android 13, MIUI 14 Cellular Technology "
+    },
+    {
+      "name": "Samsang F13",
+      "price": 29000,
+      "image": "img/samsang.jpeg",
+      "details": "E4 GB RAM | 64 GB ROM | Expandable Upto 1 TB 16.76 cm (6.6 inch) Full HD+ Display 50MP + 5MP + 2MP | 8MP Front Camera 6000 mAh "
+    },
+    {
+        "name": "Xiaomi 12 ( 12GB RAM, 512GB Storage) | 50MP Leica Professional Optics | 120 Hz 1.5K LTPO AMOLED |    SD 8 Gen 3 Hyper OS ",
+        "price": 19000,
+        "image": "img/xiaomi.jpeg",
+        "details": "The Xiaomi 12 Pro 5G in Couture Blue is a premium smartphone that offers top of the line performance. With 12 GB of RAM and 256 GB of storage"
+      }
+  ]
+  
